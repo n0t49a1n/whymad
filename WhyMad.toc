@@ -1,0 +1,6 @@
+## Interface: 90002
+## Title: WhyMad
+## Notes: A little funny, useless addon for World of Warcraft that will play a certain audio file whenever you die.
+## Author: n0t49a1n
+## Version: 1.2
+main.lua
